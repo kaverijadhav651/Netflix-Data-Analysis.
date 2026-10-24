@@ -1,0 +1,46 @@
+
+NETFLIX BUSINESS INSIGHTS REPORT
+================================
+
+1. DATASET SUMMARY
+Total titles analyzed: 8790
+
+2. CONTENT DISTRIBUTION
+Movies: 6126 (69.69%)
+TV Shows: 2664 (30.31%)
+
+3. TOP 5 COUNTRIES
+country
+United States     3240
+India             1057
+United Kingdom     638
+Pakistan           421
+Not Given          287
+
+4. TOP 5 GENRES
+listed_in
+International Movies      2752
+Dramas                    2426
+Comedies                  1674
+International TV Shows    1349
+Documentaries              869
+
+5. TOP 5 CONTENT RATINGS
+rating
+TV-MA    3205
+TV-14    2157
+TV-PG     861
+R         799
+PG-13     490
+
+6. BUSINESS OBSERVATIONS
+- The content type distribution shows the balance between
+  Movies and TV Shows in the dataset.
+- Country counts indicate where Netflix titles are associated.
+- Genre counts help identify frequently listed content categories.
+- Release year analysis helps explore historical content trends.
+
+7. CONCLUSION
+This analysis summarizes Netflix content distribution,
+countries, genres, ratings, and release-year patterns.
+These findings can support further content strategy analysis.
